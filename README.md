@@ -1,3 +1,5 @@
+DEPRECATED in favor of the new driver https://github.com/basler/pylon-ros-camera
+========================
 Basler camera interface with ROS
 ========================
 
